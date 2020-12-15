@@ -8,7 +8,6 @@ import torch
 import torch.utils
 import torch.utils.data
 from torch import nn
-import nomen
 import yaml
 import numpy as np
 import logging
